@@ -1,0 +1,7 @@
+.characters {
+    text-align: center;
+}
+.characters img {
+    display: inline;
+    max-width: 200px;
+}
